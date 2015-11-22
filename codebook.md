@@ -133,8 +133,9 @@ fBodyBodyGyroMag-std() <br/>
 ####Frequency body gyroscope jerk magnitude standard deviation
 fBodyBodyGyroJerkMag-std() <br/>
 
+#Sample Output
 
-This is a sample of the tidy.txt file produced. It can be can be read into R with `read.table("tidy.txt", header = TRUE)`
+This is a sample of the [tidy.txt](https://github.com/mateomtb/getting-and-cleaning-data/blob/master/tidy.txt) file produced. It can be can be read into R with `read.table("tidy.txt", header = TRUE)`
 
 ```
    Activity Subject tBodyAcc-mean()-X tBodyAcc-mean()-Y tBodyAcc-mean()-Z
