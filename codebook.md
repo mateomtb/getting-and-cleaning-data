@@ -29,74 +29,108 @@ There are 5 activities that are being undertaken:
 Activity - Activity each person was tracked for as a string using labels found here [UCI HAR Dataset/activity_labels.txt](https://github.com/mateomtb/getting-and-cleaning-data/blob/master/UCI%20HAR%20Dataset/activity_labels.txt)<br/>
 Subject - Numeric value assigned to each peron in the experiment <br/>
 
-The following variables are a subset of the originals and are explained in the code book here [UCI HAR Dataset/features_info.txt]
+The following variables are a subset of the originals, additional detail can be found in the original code book here [UCI HAR Dataset/features_info.txt]
 (https://github.com/mateomtb/getting-and-cleaning-data/blob/master/UCI%20HAR%20Dataset/features_info.txt)<br/>
 
+####Time body acceleration mean
 tBodyAcc-mean()-X <br/>
 tBodyAcc-mean()-Y <br/>
 tBodyAcc-mean()-Z <br/>
+####Time gravity acceleration mean
 tGravityAcc-mean()-X <br/>
 tGravityAcc-mean()-Y <br/>
 tGravityAcc-mean()-Z <br/>
+####Time body acceleration jerk mean
 tBodyAccJerk-mean()-X <br/>
 tBodyAccJerk-mean()-Y <br/>
 tBodyAccJerk-mean()-Z <br/>
+####Time gyroscope mean
 tBodyGyro-mean()-X <br/>
 tBodyGyro-mean()-Y <br/>
 tBodyGyro-mean()-Z <br/>
+####Time gyroscope jerk mean
 tBodyGyroJerk-mean()-X <br/>
 tBodyGyroJerk-mean()-Y <br/>
 tBodyGyroJerk-mean()-Z <br/>
+####Time body acceleration magnitude mean
 tBodyAccMag-mean() <br/>
+####Time gravity acceleration magnitude mean
 tGravityAccMag-mean() <br/>
+####Time body acceleration jerk mean
 tBodyAccJerkMag-mean() <br/>
+####Time body gyroscope magnitude mean
 tBodyGyroMag-mean() <br/>
+####Time body gyroscope jerk magnitude mean
 tBodyGyroJerkMag-mean() <br/>
+####Frequency body acceleration mean
 fBodyAcc-mean()-X <br/>
 fBodyAcc-mean()-Y <br/>
 fBodyAcc-mean()-Z <br/>
+####Frequency body acceleration jerk mean
 fBodyAccJerk-mean()-X <br/>
 fBodyAccJerk-mean()-Y <br/>
 fBodyAccJerk-mean()-Z <br/>
+####Frequency body gyroscope mean
 fBodyGyro-mean()-X <br/>
 fBodyGyro-mean()-Y <br/>
 fBodyGyro-mean()-Z <br/>
+####Frequency body acceleration magnitude mean
 fBodyAccMag-mean() <br/>
+####Frequency body acceleration jerk magnitude mean
 fBodyBodyAccJerkMag-mean() <br/>
+####Frequency body gyroscope magnitude mean
 fBodyBodyGyroMag-mean() <br/>
+####Frequency body gyroscope jerk magnitude mean
 fBodyBodyGyroJerkMag-mean() <br/>
+####Time body acceleration standard deviation
 tBodyAcc-std()-X <br/>
 tBodyAcc-std()-Y <br/>
 tBodyAcc-std()-Z <br/>
+####Time gravity acceleration standard deviation
 tGravityAcc-std()-X <br/>
 tGravityAcc-std()-Y <br/>
 tGravityAcc-std()-Z <br/>
+####Time body acceleration jerk standard deviation
 tBodyAccJerk-std()-X <br/>
 tBodyAccJerk-std()-Y <br/>
 tBodyAccJerk-std()-Z <br/>
+####Time body gyroscope standard deviation
 tBodyGyro-std()-X <br/>
 tBodyGyro-std()-Y <br/>
 tBodyGyro-std()-Z <br/>
+####Time body gyroscope jerk standard deviation
 tBodyGyroJerk-std()-X <br/>
 tBodyGyroJerk-std()-Y <br/>
 tBodyGyroJerk-std()-Z <br/>
+####Time body acceleration magnitude standard deviation
 tBodyAccMag-std() <br/>
+####Time gravity acceleration standard deviation
 tGravityAccMag-std() <br/>
+####Time body acceleration jerk magnitude standard deviation
 tBodyAccJerkMag-std() <br/>
+####Time body gyroscope magnitude standard deviation
 tBodyGyroMag-std() <br/>
+####Time body gyroscope jerk magnitude standard deviation
 tBodyGyroJerkMag-std() <br/>
+####Frequency body acceleration standard deviation
 fBodyAcc-std()-X <br/>
 fBodyAcc-std()-Y <br/>
 fBodyAcc-std()-Z <br/>
+####Frequency body acceleration jerk standard deviation
 fBodyAccJerk-std()-X <br/>
 fBodyAccJerk-std()-Y <br/>
 fBodyAccJerk-std()-Z <br/>
+####Frequency body gyroscope standard deviation
 fBodyGyro-std()-X <br/>
 fBodyGyro-std()-Y <br/>
 fBodyGyro-std()-Z <br/>
+####Frequency body acceleration magnitude standard deviation
 fBodyAccMag-std() <br/>
+####Frequency body acceleration jerk magnitude standard deviation
 fBodyBodyAccJerkMag-std() <br/>
+####Frequency body gyroscope magnitude standard deviation
 fBodyBodyGyroMag-std() <br/>
+####Frequency body gyroscope jerk magnitude standard deviation
 fBodyBodyGyroJerkMag-std() <br/>
 
 
