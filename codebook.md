@@ -21,14 +21,17 @@ There are 5 activities that are being undertaken:
   <li>Merges the training and the test sets to create one data set</li>
   <li>Extract the measurements on the mean and standard deviation for each measurement</li>
   <li>Use descriptive activity names to name the activities in the data set</li>
-  <li>Use descriptive activity names to name the activities in the data set</li>
   <li>Label the data set with descriptive variable names</li>
   <li>From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject</li>
 </ul>
 
 #Variables
-Activity <br/>
-Subject <br/>
+Activity - Activity each person was tracked for as a string using labels found here [UCI HAR Dataset/activity_labels.txt](https://github.com/mateomtb/getting-and-cleaning-data/blob/master/UCI%20HAR%20Dataset/activity_labels.txt)<br/>
+Subject - Numeric value assigned to each peron in the experiment <br/>
+
+The following variables are a subset of the originals and are explained in the code book here [UCI HAR Dataset/features_info.txt]
+(https://github.com/mateomtb/getting-and-cleaning-data/blob/master/UCI%20HAR%20Dataset/features_info.txt)<br/>
+
 tBodyAcc-mean()-X <br/>
 tBodyAcc-mean()-Y <br/>
 tBodyAcc-mean()-Z <br/>
