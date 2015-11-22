@@ -27,8 +27,12 @@ There are 5 activities that are being undertaken:
 </ul>
 
 #Variables
-Activity <br/>
-Subject <br/>
+Activity - Activity each person was tracked for <br/>
+Subject - Numeric value assigned to each peron in the experiment <br/>
+
+The following variables are a subset of the originals and are explained in the code book here [UCI HAR Dataset/features_info.txt]
+(https://github.com/mateomtb/getting-and-cleaning-data/blob/master/UCI%20HAR%20Dataset/features_info.txt)<br/>
+
 tBodyAcc-mean()-X <br/>
 tBodyAcc-mean()-Y <br/>
 tBodyAcc-mean()-Z <br/>
